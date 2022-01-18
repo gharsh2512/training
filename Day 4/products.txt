@@ -1,0 +1,40 @@
+{
+	"_id" : ObjectId("61e66ec20eb5c971b73505c4"),
+	"name" : "Toothsi Electro",
+	"regularPrice" : 2399,
+	"discountPrice" : 1499,
+	"quantity" : 5,
+	"description" : "Electric Toothbrush"
+}
+{
+	"_id" : ObjectId("61e66f1d0eb5c971b73505c5"),
+	"name" : "Flavoured Chewies",
+	"regularPrice" : 550,
+	"discountPrice" : 299,
+	"quantity" : 3,
+	"description" : "To straighten teeth faster"
+}
+{
+	"_id" : ObjectId("61e66f4b0eb5c971b73505c6"),
+	"name" : "Dry Box",
+	"regularPrice" : 299,
+	"discountPrice" : 199,
+	"quantity" : 4,
+	"description" : "Safe Case For aligners"
+}
+{
+	"_id" : ObjectId("61e66f860eb5c971b73505c7"),
+	"name" : "Toothsi Spark Teeth Whitening Kit",
+	"regularPrice" : 12999,
+	"discountPrice" : 5999,
+	"quantity" : 4,
+	"description" : "Professional treatment at home"
+}
+{
+	"_id" : ObjectId("61e66fd30eb5c971b73505c8"),
+	"name" : "Foamy Cleaner",
+	"regularPrice" : 899,
+	"discountPrice" : 450,
+	"quantity" : 4,
+	"description" : "Aligner Cleaning Foam"
+}

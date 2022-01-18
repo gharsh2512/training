@@ -1,0 +1,66 @@
+{
+	"_id" : ObjectId("61e66ae80eb5c971b73505bd"),
+	"firstname" : "Harsh",
+	"lastname" : "Gupta",
+	"phone" : "8779966004",
+	"address" : {
+		"city" : "Pune",
+		"state" : "Maharastra",
+		"country" : "India"
+	}
+}
+{
+	"_id" : ObjectId("61e66b3f0eb5c971b73505be"),
+	"firstname" : "Piyush",
+	"lastname" : "Sharma",
+	"phone" : "9909966004",
+	"address" : {
+		"city" : "Mumbai",
+		"state" : "Maharastra",
+		"country" : "India"
+	}
+}
+{
+	"_id" : ObjectId("61e66b770eb5c971b73505bf"),
+	"firstname" : "Siddharth",
+	"lastname" : "Sharma",
+	"phone" : "7789966004",
+	"address" : {
+		"city" : "Agra",
+		"state" : "UP",
+		"country" : "India"
+	}
+}
+{
+	"_id" : ObjectId("61e66b9d0eb5c971b73505c0"),
+	"firstname" : "Chavi",
+	"lastname" : "Pandit",
+	"phone" : "9897996604",
+	"address" : {
+		"city" : "Noida",
+		"state" : "UP",
+		"country" : "India"
+	}
+}
+{
+	"_id" : ObjectId("61e66c110eb5c971b73505c2"),
+	"firstname" : "Mohit",
+	"lastname" : "Sharma",
+	"phone" : "9547996604",
+	"address" : {
+		"city" : "Agra",
+		"state" : "UP",
+		"country" : "India"
+	}
+}
+{
+	"_id" : ObjectId("61e66c840eb5c971b73505c3"),
+	"firstname" : "Vivek",
+	"lastname" : "Gupta",
+	"phone" : "8890966004",
+	"address" : {
+		"city" : "Mumbai",
+		"state" : "Maharastra",
+		"country" : "India"
+	}
+}

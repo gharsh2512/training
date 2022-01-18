@@ -1,0 +1,82 @@
+{
+	"_id" : ObjectId("61e6722f0eb5c971b73505c9"),
+	"userId" : "61e66ae80eb5c971b73505bd",
+	"orderStatus" : "Completed",
+	"amount" : 598,
+	"shippingAddress" : {
+		"city" : "Pune",
+		"state" : "Maharastra",
+		"country" : "India"
+	},
+	"cartItems" : {
+		"productId" : "61e66f1d0eb5c971b73505c5",
+		"quantity" : 2
+	},
+	"payment" : {
+		"type" : "COD",
+		"date" : "2021-11-05"
+	}
+}
+{
+	"_id" : ObjectId("61e672d70eb5c971b73505ca"),
+	"userId" : "61e66b770eb5c971b73505bf",
+	"orderStatus" : "Completed",
+	"amount" : 5999,
+	"shippingAddress" : {
+		"city" : "Agra",
+		"state" : "UP",
+		"country" : "India"
+	},
+	"cartItems" : {
+		"productId" : "61e66f860eb5c971b73505c7",
+		"quantity" : 1
+	},
+	"payment" : {
+		"type" : "UPI",
+		"date" : "2022-01-09"
+	}
+}
+{
+	"_id" : ObjectId("61e6739c0eb5c971b73505cb"),
+	"userId" : "61e66c110eb5c971b73505c2",
+	"orderStatus" : "Completed",
+	"amount" : 6449,
+	"shippingAddress" : {
+		"city" : "Agra",
+		"state" : "UP",
+		"country" : "India"
+	},
+	"cartItems" : [
+		{
+			"productId" : "61e66f860eb5c971b73505c7",
+			"quantity" : 1
+		},
+		{
+			"productId" : "61e66fd30eb5c971b73505c8",
+			"quantity" : 1
+		}
+	],
+	"payment" : {
+		"type" : "DebitCard",
+		"date" : "2022-01-10"
+	}
+}
+{
+	"_id" : ObjectId("61e6749c0eb5c971b73505cc"),
+	"userId" : "61e66b3f0eb5c971b73505be61e66f4b0eb5c971b73505c6",
+	"orderStatus" : "Completed",
+	"amount" : 398,
+	"shippingAddress" : {
+		"city" : "Mumbai",
+		"state" : "Maharashtra",
+		"country" : "India"
+	},
+	"cartItems" : {
+		"productId" : "61e66f860eb5c971b73505c7",
+		"quantity" : 2
+	},
+	"payment" : {
+		"type" : "UPI",
+		"date" : "2022-01-15"
+	}
+}
