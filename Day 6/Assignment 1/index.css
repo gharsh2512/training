@@ -1,0 +1,38 @@
+h1{
+    background-color: aqua;
+    
+    color: #ff4d4d;
+    text-align: center;
+}
+
+h2{
+    color: #ff6666;
+    text-align:center;
+}
+
+a{
+    display: block;
+    text-align: center;
+  }
+
+  button {
+      text-align: center;
+    background: #5f9341;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+    
+  
+}
+#btn{
+    text-align: center;
+    background: #5f9341;
+    color: white;
+    margin-top: 20px;
+    border: none;
+    font-weight: bold;
+}
+#container{
+    text-align:center;
+}
